@@ -4,4 +4,6 @@ while 1:
  myAge=input()
  if(myAge == "48"):
     break
+ else:
+     print("Incorrect, Try Again!")
 print("Correct")
