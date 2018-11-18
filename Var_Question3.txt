@@ -1,0 +1,6 @@
+•	ppsn - String
+•	temperature in degrees – Flouting point to 4 decimal places
+•	cao number - String
+•	Miles travelled per day  - Integer
+•	Average collection of exam grades  - Integer
+•	File path – String with r/R
